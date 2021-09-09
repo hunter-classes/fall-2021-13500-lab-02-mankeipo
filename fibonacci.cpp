@@ -3,6 +3,8 @@ Author: Man Kei Po
 Course: CSCI-13500
 Instructor: Zamansky
 Assignment: Lab2D
+
+I realized that the number is bigger than the max-value of c++, therefore it went negative.
 */
 #include <iostream>
 using namespace std;

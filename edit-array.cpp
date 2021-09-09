@@ -31,6 +31,6 @@ int main() {
   	cin >> num2;
 	cout << "\n";	
   }
-  cout << "Index of out range. Exit";
+  cout << "Index of out range. Exit.";
   return 0;
 }
